@@ -1,0 +1,9 @@
+.has-error{border: 1px solid red;}
+.has-success{border: 1px solid green;}
+.ng-valid.ng-submitted input {
+border: 1px solid green;
+}
+input{border: 1px solid #ccc;}
+.ng-invalid.ng-submitted input {
+border: 1px solid red;
+}
