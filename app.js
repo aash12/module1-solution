@@ -20,7 +20,7 @@ function MsgController($scope) {
 	}
 }
 else{
-	$scope.msg = "string is empty";
+	$scope.msg = "Please enter data first";
 }
 }
 }
